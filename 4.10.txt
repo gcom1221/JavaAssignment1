@@ -1,0 +1,2 @@
+The "if" and "while" conditions are similar in the sense that they both use a condition to decide what to do. 
+However, "if" runs one time if the condition is true and "while" keeps running as long as the condition is true.

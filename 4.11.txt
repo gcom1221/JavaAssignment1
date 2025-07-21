@@ -1,0 +1,1 @@
+When you divide one integer by another, Java truncates the decimal part. And to avoid this, make use of double or float.

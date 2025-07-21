@@ -1,0 +1,1 @@
+A class might provide a set method and a get method for an instance variable to enforce encapsulation—protecting data and allowing controlled access.

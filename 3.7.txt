@@ -1,0 +1,2 @@
+An instance variable holds data that belongs to a specific object.
+Each object of a class has its own copy of the instance variables and they help store the state of the object.

@@ -1,0 +1,2 @@
+Preincrementing means you increase the value of the variable before using it in an expression.
+Postincrementing means you use the current value of the variable first, and then increase it afterward.

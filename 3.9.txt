@@ -1,0 +1,1 @@
+A program could use class Scanner without importing it if it's full name is written in the code, which tells Java exactly where to find the class.

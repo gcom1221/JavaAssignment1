@@ -1,0 +1,3 @@
+Java control statements can be combined in the following ways:
+
+1. Nesting: This is when one control statement is placed inside another.

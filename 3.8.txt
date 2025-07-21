@@ -1,0 +1,3 @@
+Every app is allowed to use classes System and String without first importing them because they are automatically imported into every Java program.
+They are contained in the java.lang package.
+
