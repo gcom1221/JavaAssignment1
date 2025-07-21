@@ -1,0 +1,7 @@
+1. False: Java operators are not always evaluated from left to right as Java looks at the type of operatort first. The operator type determines the priority or precedence.
+
+2. True: All the names follow Java rules
+
+3. False: Java follows precedence first. Left to right only applies when operators are at the same level of precedence.
+
+4. False: h22 is a valid name because it starts with a letter.

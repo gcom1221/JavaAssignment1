@@ -1,0 +1,5 @@
+a. int y = a * x * x * x + 7;
+d. int y = (a * x) * x * x + 7; and 
+e. int y = a * (x * x * x) + 7
+
+These are the correct Java statements for the equation

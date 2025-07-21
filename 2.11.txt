@@ -1,0 +1,9 @@
+a. the value of p is being changed
+
+b. just printing text
+
+c. just prints a = 5
+
+d. a new value from the user is stored in value
+
+So a and d modify variables
